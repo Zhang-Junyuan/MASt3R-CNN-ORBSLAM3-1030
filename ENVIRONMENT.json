@@ -1,0 +1,29 @@
+{
+  "python": "3.11.17",
+  "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "packages": {
+    "torch": "2.5.1+cu124",
+    "torchvision": "0.20.1+cu124",
+    "numpy": "1.26.4",
+    "opencv-python": "4.10.0.84",
+    "timm": "not separately installed",
+    "einops": "0.8.2",
+    "roma": "1.6.1",
+    "scipy": "1.17.1",
+    "huggingface-hub": "2.2.0"
+  },
+  "torch_cuda": "12.4",
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "sources": {
+    "mast3r": "/mnt/e/MASt3R_Dynamic_ORB_SLAM3/third_party/mast3r/mast3r/model.py",
+    "dust3r": "/mnt/e/MASt3R_Dynamic_ORB_SLAM3/third_party/mast3r/dust3r/dust3r/model.py",
+    "curope": "/mnt/e/MASt3R_Dynamic_ORB_SLAM3/third_party/mast3r/dust3r/croco/models/curope/curope.cpython-311-x86_64-linux-gnu.so"
+  },
+  "hashes": {
+    "build/orb/mast3r_backend": "1f27b78224eaacd968104a71f6a99fe68b4bba6683138d41572a8fdce8ee9cf1",
+    "checkpoints/dynamic_point_cnn.pt": "d09ea03363145ee03d1998d373f82546bcd02eefb4b6857b57fc2e9ed532c88a",
+    "native/mast3r_backend.cc": "ed66816f298429be52832117153e0e3771ab3cdffc07134b24020cce01c6629d",
+    "run_pipeline.py": "9657be2156840f535d13dbf7d3fe14398de9ac9319ed7c840c37c759e42f6872",
+    "mast3r_frontend.py": "da56d954f848eb8ba88bef66275642ccca25da977f8a79032ed0416c99e27c6d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "resolution": [
+    320,
+    176
+  ],
+  "adapter_modules": 192,
+  "lora_trainable_parameters": 1622016,
+  "cnn_parameters": 3817,
+  "peak_allocated_mb": 3017.119140625,
+  "seconds": 1.5205228960000028,
+  "lora_gradient_l1": 3.608317986920383,
+  "cnn_gradient_l1": 1.7081951304571703,
+  "zero_adapter_forward_relative_error": 0.005959811620414257,
+  "optimizer_step": "passed"
+}

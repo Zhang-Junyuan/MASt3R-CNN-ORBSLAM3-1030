@@ -1,0 +1,9 @@
+{
+  "steps": 1800,
+  "parameters": 3817,
+  "seconds": 8.103704198999992,
+  "synthetic_precision": 0.999980487804878,
+  "synthetic_recall": 0.9997854077253219,
+  "synthetic_iou": 0.9997659039035524,
+  "real_dynamic_accuracy": "unknown"
+}

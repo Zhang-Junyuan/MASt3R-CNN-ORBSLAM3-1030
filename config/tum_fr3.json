@@ -1,0 +1,6 @@
+{
+  "camera": "TUM Freiburg3 pre-undistorted RGB",
+  "K": [[535.4, 0, 320.1], [0, 539.2, 247.6], [0, 0, 1]],
+  "distortion": [0, 0, 0, 0, 0],
+  "note": "Other cameras require their own calibration and undistorted RGB. Depth files are not read."
+}

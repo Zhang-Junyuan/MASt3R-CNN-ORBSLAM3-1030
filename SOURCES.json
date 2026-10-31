@@ -1,0 +1,40 @@
+[
+  {
+    "repository": "UZ-SLAMLab/ORB_SLAM3",
+    "commit": "4452a3c4ab75b1cde34e5505a36ec3f9edcdc4c4",
+    "files": 256,
+    "submodules": []
+  },
+  {
+    "repository": "naver/mast3r",
+    "commit": "f5209afc300cec36239a7ac992263f36847bbba0",
+    "files": 63,
+    "submodules": [
+      {
+        "path": "dust3r",
+        "mode": "160000",
+        "type": "commit",
+        "sha": "3cc8c88c413bb9e34c41db0e0eef99c2ee010b12"
+      }
+    ]
+  },
+  {
+    "repository": "naver/dust3r",
+    "commit": "3cc8c88c413bb9e34c41db0e0eef99c2ee010b12",
+    "files": 96,
+    "submodules": [
+      {
+        "path": "croco",
+        "mode": "160000",
+        "type": "commit",
+        "sha": "d7de0705845239092414480bd829228723bf20de"
+      }
+    ]
+  },
+  {
+    "repository": "naver/croco",
+    "commit": "d7de0705845239092414480bd829228723bf20de",
+    "files": 46,
+    "submodules": []
+  }
+]

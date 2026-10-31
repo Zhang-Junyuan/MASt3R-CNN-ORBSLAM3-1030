@@ -1,0 +1,11 @@
+# Current tested interpreter: /home/yuan/mast3r-slam-local/env/bin/python
+torch==2.5.1
+numpy==1.26.4
+opencv-python==4.10.0.84
+matplotlib
+torchvision
+timm
+einops
+roma
+scipy
+huggingface-hub
