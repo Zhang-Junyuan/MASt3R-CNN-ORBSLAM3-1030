@@ -1,4 +1,4 @@
-# MASt3R-CNN-ORBSLAM3
+# MASt3R-CNN-ORBSLAM3-1030
 
 Pure-visual research implementation combining MASt3R dense geometry, a lightweight dynamic-risk CNN, learned sparse observations, and native ORB-SLAM3 map and optimization components.
 
